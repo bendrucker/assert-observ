@@ -1,4 +1,4 @@
-# assert-observ [![Build Status](https://travis-ci.org/bendrucker/assert-observ.svg?branch=master)](https://travis-ci.org/bendrucker/assert-observ)
+# assert-observ [![Build Status](https://travis-ci.org/bendrucker/assert-observ.svg?branch=master)](https://travis-ci.org/bendrucker/assert-observ) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/assert-observ.svg)](https://greenkeeper.io/)
 
 > Assert that a value is an observable
 
